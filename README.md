@@ -1,4 +1,4 @@
-## qT-Embed
+## qFlux
 
 ### Graphical desktop application for T-Embed Flipper zero Port https://github.com/Sor3nt/Flipper-Zero-ESP32-Port
 ## Features
